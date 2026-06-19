@@ -1,2 +1,7 @@
-# Explainable-AI-and-Interpretability-for-Big-Data-Predictive-Analysis
-An interactive web-based dashboard for Explainable AI (XAI) that combines predictive analytics, data visualization, linear regression modeling, and AI-generated natural language explanations to improve transparency and decision-making.
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

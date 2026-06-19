@@ -1,0 +1,5 @@
+{
+  "name": "EXPLAINABLE AI AND INTERPRETABILITY FOR BIGDATA PREDICTIVE ANALYSYS",
+  "description": "A comprehensive client-side predictive analytics dashboard featuring Explainable AI (XAI) powered by Gemini. Users can upload CSV datasets to visualize trends, detect anomalies, and receive natural language interpretations of their data patterns.",
+  "requestFramePermissions": []
+}
